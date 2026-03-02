@@ -2,8 +2,7 @@
 
 來自 **臺灣科技大學資訊工程系** 的大一新生，畢業於新竹縣竹北高中資訊科（現名：陽明交大附中）。
 
-<!-- 總覽卡 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyzy0826)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyzy0826)](https://github.com/anuraghazra/github-readme-stats)
 
 
 高中時接觸過競賽程式，進入大學後決定全心投入 **開源技術 (Open Source)**，目標是成為一個酷酷的開發者！
