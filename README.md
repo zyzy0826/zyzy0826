@@ -2,9 +2,6 @@
 
 來自 **臺灣科技大學資訊工程系** 的大一新生，畢業於新竹縣竹北高中資訊科（現名：陽明交大附中）。
 
-[![Zuiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyzy0826)](https://github.com/zyzy0826/github-readme-stats)
-
-
 高中時接觸過競賽程式，進入大學後決定全心投入 **開源技術 (Open Source)**，目標是成為一個酷酷的開發者！
 目前正處於「斜槓青年」的探索期，喜歡嘗試各種新技術與領域。
 
